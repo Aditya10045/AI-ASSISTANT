@@ -1,10 +1,4 @@
-Here's a complete and professional `README.md` for your **Offline AI Assistant** project using **TinyLlama + FastAPI + HTML/Tailwind frontend**:
 
----
-
-### 📄 `README.md`
-
-```markdown
 # 🤖 Offline AI Assistant with TinyLlama
 
 A fully offline, private AI assistant built using [Ollama](https://ollama.com) with the TinyLlama model, a FastAPI backend, and a modern HTML/Tailwind CSS frontend.
