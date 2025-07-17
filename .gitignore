@@ -1,0 +1,38 @@
+# === Python ===
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.log
+
+# === Virtual Environment ===
+venv/
+env/
+ENV/
+.venv/
+.idea/
+*.egg-info/
+
+# === FastAPI Cache Files ===
+*.db
+*.sqlite3
+
+# === macOS ===
+.DS_Store
+
+# === Windows ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# === VSCode ===
+.vscode/
+
+# === Frontend Cache (if added later) ===
+node_modules/
+dist/
+build/
+*.lock
+
+# === HTML static test file (optional to include/exclude) ===
+# frontend.html
